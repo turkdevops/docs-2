@@ -51,7 +51,7 @@
     "gray-matter": "^4.0.1",
     "hast-util-from-parse5": "^6.0.1",
     "hastscript": "^6.0.0",
-    "helmet": "^3.21.2",
+    "helmet": "^3.23.3",
     "hot-shots": "^8.2.0",
     "html-entities": "^1.2.1",
     "html-truncate": "^1.2.2",
