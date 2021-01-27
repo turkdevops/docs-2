@@ -93,7 +93,7 @@
   },
   "devDependencies": {
     "@actions/core": "^1.2.6",
-    "ajv": "^6.12.3",
+    "ajv": "^6.12.6",
     "async": "^3.2.0",
     "await-sleep": "0.0.1",
     "aws-sdk": "^2.820.0",
