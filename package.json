@@ -146,7 +146,7 @@
     "supertest": "^4.0.2",
     "url-template": "^2.0.8",
     "webpack-dev-middleware": "^3.7.2",
-    "website-scraper": "^4.2.0"
+    "website-scraper": "^4.2.3"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development ENABLED_LANGUAGES='en,ja' nodemon server.js",
